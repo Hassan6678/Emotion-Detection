@@ -1,0 +1,14 @@
+#Ignore file
+*.png
+*.m
+*.jpg
+*.exe
+*.xml
+*.jpeg
+*.iml
+*.txt
+
+dataset/
+__pycache__/
+imgs/
+main2.py
